@@ -7,3 +7,6 @@ Traditional parking systems, which rely heavily on manual ticketing, inefficient
 **Our Problem Statement:**
 Current parking systems are largely inefficient, fragmented, and lack automation. The absence of real-time information, poor space utilization, manual processes, and limited digital payment options result in user inconvenience and operational bottlenecks for facility managers. Moreover, without proper data tracking and auditing mechanisms, there is no reliable way to manage and monitor parking patterns or enforce compliance effectively. There is a critical need for a smart, centralized system that can automate parking operations, provide real-time availability, ensure security, and support scalability in line with smart city goals.
 Park@Ease is designed as a smart parking lot management system to address these challenges. It offers a complete digital solution to streamline every aspect of the parking process—from slot booking and occupancy tracking to payment processing and administrative control. Leveraging a robust, data-driven backend with triggers, stored procedures, and sensor integration, Park@Ease enhances accuracy, security, and user experience. Additionally, it supports future scalability and integration with smart city ecosystems.
+
+![Logo](https://github.com/user-attachments/assets/bcd8bbbb-f18d-4cfe-9ede-4ac4f1c1c94e)
+
