@@ -1,6 +1,7 @@
 # Parking-Lot-Management-System
 
-![Logo](https://github.com/user-attachments/assets/bcd8bbbb-f18d-4cfe-9ede-4ac4f1c1c94e)
+![Screenshot 2025-05-13 at 6 48 38 PM](https://github.com/user-attachments/assets/80f48c55-f1a3-456f-bd3b-2d4ed80b9fec)
+
 
 **Introduction:**
 Urbanization has led to an exponential rise in vehicle ownership and an increasing demand for convenient parking solutions. One of the major challenges faced by urban dwellers is finding available parking, especially in crowded areas such as downtown business centers, university campuses, shopping malls, and event venues. Studies show that drivers can spend anywhere from 20 to 40 minutes searching for a vacant spot, which contributes to traffic congestion, increased fuel consumption, time wastage, and elevated levels of pollution.
