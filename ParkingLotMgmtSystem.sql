@@ -5,6 +5,7 @@ Core Tables				: users, vehicles, parking_lots, parking_slots, bookings, payment
 IoT & Security  		: parking_sensors, access_control, logs, violations
 Revenue & Subscriptions : subscription_plans (lookup), user_subscriptions (intersection), discounts, booking_discounts (intersection)
 staff Management		: staff
+Audit Tables		        : bookings_audit, payments_audit, parking_sensors_audit 
 */
  
 /*
